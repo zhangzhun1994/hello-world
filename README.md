@@ -1,2 +1,4 @@
 # hello-world
-我的初始库
+public void main(String args[]){
+  System.out.println("我的初始库");
+}
